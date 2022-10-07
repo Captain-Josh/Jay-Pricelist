@@ -1,0 +1,79 @@
+/*Major fixes starts here */
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body
+{font-family: 'Inter', sans-serif;}
+
+main{
+    padding: 0 20px 0 20px;
+    border: 3px solid black;
+}
+/*Major fixes ends here */
+
+/* Header section starts here */
+.header-section{
+border: 3px solid blue;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center ;
+margin: 30px 0;
+}
+.header-section .pri{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.header-section .simp{
+    margin:20px 0 ;
+font-size: 30px;
+font-weight: lighter;
+}
+.btn{
+    background: gray;
+    padding: 3px 5px;
+    border-radius: 10px;
+}
+.btn .btn-1{
+    padding: 10px 25px;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+}
+.btn .btn-2{
+    background: none;
+    border: none;
+    padding: 10px 25px;
+    font-weight: bold;
+}
+
+/* Header section ends here */
+
+/* Body Section ends here */
+.body{
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 30px;
+}
+.main-btn{
+    background:#3D3737;
+    padding: 10px 20px 10px 30px;
+    border: none;
+    color: white;
+}
+
+.body span{
+
+}
+
+/* Body Section starts here */
+
+/* Header section starts here */
+/* Header section ends here */
+/* Header section starts here */
+/* Header section ends here */
+.text {
+    font-family:sans-serif;
+}
