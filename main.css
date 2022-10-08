@@ -102,6 +102,9 @@ font-weight: lighter;
 .body-a span{
 font-size: 0.8rem;
 }
+.fa-solid {
+    margin-right: 7px;
+}
 
 /* Body Section starts here */
 
