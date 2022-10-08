@@ -11,13 +11,13 @@ font-size: 62.5%;
 
 main{
     padding: 0 20px 40px 20px;
-    border: 3px solid purple;
+
 }
 /*Major fixes ends here */
 
 /* Header section starts here */
 .header-section{
-border: 3px solid blue;
+
 display: flex;
 flex-direction: column;
 align-items: center;
@@ -90,7 +90,6 @@ font-weight: lighter;
     padding: 15px 0;
 }
 .body-a .amount{
-    border:3px solid black;
     height: 20vh;
 }
 .body-a p{
@@ -98,7 +97,7 @@ font-weight: lighter;
     font-size: 1rem;
 }
 .body-a h3{
-    padding-bottom: 15px;
+    height: 30px;
 }
 .body-a span{
 font-size: 0.8rem;
